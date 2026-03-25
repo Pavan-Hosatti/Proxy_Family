@@ -1,4 +1,5 @@
-# SparkHub (BidBuddy) System Architecture
+# Overview and Project Structure
+# Proxy Family Architecture Overview
 
 This document describes the high-level system architecture of the SparkHub platform and clarifies deployment requirements for AI screening.
 
