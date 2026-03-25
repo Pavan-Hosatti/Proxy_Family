@@ -33,3 +33,5 @@ Proxy Family uses **Voice Cloning Simulation**, **Sentiment Analysis (Passive Ag
 
 ---
 *Built for the Stupid Hackathon. No relatives were harmed in the making of this software (hopefully).*
+
+**Maintainer: Pavan Hosatti**
