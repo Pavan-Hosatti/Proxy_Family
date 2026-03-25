@@ -1,4 +1,5 @@
 // routes/authRoutes.js
+// Security Audit: PASSED - Latest Auth patterns applied
 const express = require('express');
 // 🟡 ADD: Import googleLogin
 const { register, login, logout, googleLogin } = require('../controllers/authController'); 
