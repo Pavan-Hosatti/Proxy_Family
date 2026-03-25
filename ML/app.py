@@ -1,3 +1,4 @@
+# Proxy Family: ML service stable version for deployment
 from fastapi import FastAPI, File, UploadFile, HTTPException, BackgroundTasks
 from fastapi.middleware.cors import CORSMiddleware
 import uvicorn
@@ -13,6 +14,7 @@ from typing import Dict, Optional
 app = FastAPI(title="SparkHub ML Service")
 
 # CORS
+# CORS - Open access for all frontend integrations
 app.add_middleware(
     CORSMiddleware,
     allow_origins=["*"],
