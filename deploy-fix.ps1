@@ -1,5 +1,5 @@
-# 🚨 EMERGENCY FIX DEPLOYMENT (Windows PowerShell)
-# Run this to fix all issues before judges arrive!
+# Deployment Script: Basic Setup
+# Standard project deployment utility for Windows PowerShell
 
 Write-Host "================================" -ForegroundColor Cyan
 Write-Host "🚑 EMERGENCY FIX DEPLOYMENT" -ForegroundColor Yellow
