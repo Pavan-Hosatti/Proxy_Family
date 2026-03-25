@@ -1,4 +1,5 @@
 param(
+    # Project Migration Script: Standard export utility
     [string]$DestinationPath = "..\SparkHub-clean-repo",
     [switch]$Overwrite
 )
