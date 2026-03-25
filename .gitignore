@@ -1,3 +1,4 @@
+# Project structure: Common ignore patterns
 # Environment variables
 .env
 .env.local
