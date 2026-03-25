@@ -1,6 +1,6 @@
 #!/bin/bash
-# 🚨 EMERGENCY DEPLOYMENT FIX SCRIPT
-# Run this to fix all issues before judges arrive!
+# Standard project deployment utility for Bash shell
+# Run this to set up environment for deployment
 
 echo "================================"
 echo "🚑 EMERGENCY FIX DEPLOYMENT"
