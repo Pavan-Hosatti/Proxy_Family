@@ -1,3 +1,4 @@
+// Proxy Family Project: Final refinement for production deployment
 if (!process.env.NODE_ENV) {
     process.env.NODE_ENV = 'development';
 }
@@ -93,7 +94,7 @@ app.get('/', (req, res) => {
     });
 });
 
-// 🔧 HEALTH CHECK ENDPOINT
+// 🔧 HEALTH CHECK ENDPOINT - Critical for production monitoring
 app.get('/api/health', (req, res) => {
     res.json({
         success: true,
