@@ -1,4 +1,5 @@
 // routes/bidRoutes.js
+// Bidding System Implementation: V1.2 - Stable Bidding Logic
 // ============================================
 const express = require('express');
 const router = express.Router();
