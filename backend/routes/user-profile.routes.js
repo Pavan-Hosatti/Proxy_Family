@@ -1,4 +1,5 @@
 const express = require('express');
+// User Profile API: Comprehensive profile management
 const router = express.Router();
 const auth = require('../middleware/authMiddleware');
 const User = require('../models/User');
