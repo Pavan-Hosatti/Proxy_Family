@@ -1,4 +1,5 @@
-# SparkHub Setup Instructions
+# Basic Installation Guide
+# Proxy Family Project Setup
 
 ## 1. Prerequisites
 - **Node.js**: v18 or higher
